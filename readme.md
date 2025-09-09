@@ -1,6 +1,6 @@
 # Learn Git/GitHub from chai aur code
 
- Hitesh bhaiya though me git or gitHub simple me!
+ I learned Git/GitHub from "Hitesh bhaiya"!
 
  Loved his teaching.
  
