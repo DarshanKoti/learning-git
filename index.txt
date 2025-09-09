@@ -1,2 +1,4 @@
 This is the first line of this txt file 
 This is the second line of this txt file 
+
+Now I have successfully added my git with gitHub!!
